@@ -1,1 +1,1 @@
-FROM mattermost/mattermost-team-edition:latest
+FROM mattermost/mattermost-preview:latest
